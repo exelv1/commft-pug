@@ -1,0 +1,3 @@
+The CommFT Pug System is an open source version of notable pug configs that server admins of public organizations can use to promote pug-type play in their communities. This set of config most closely represents the server configs used by ESEA and CEVO. The configs require that the server is private.
+
+The downloadable file includes the configs and a simple readme. Each config includes detailed, line-by-line descriptions of what each line of code means in reference to the pug format. This packet of configs is meant to be easy-to-edit and implement. If you encounter any issues, contact Chris @ CommFT.com.
